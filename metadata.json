@@ -1,0 +1,6 @@
+{
+  "name": "Machine Learning көмегімен су мөлшерін болжау",
+  "description": "Machine Learning және Deep Learning көмегімен Қазақстандағы ауыл шаруашылығы дақылдарына қажетті су мөлшерін болжау зерттеу презентациясы — Ахметова Меруерт, Әділқасын Аяжан",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
